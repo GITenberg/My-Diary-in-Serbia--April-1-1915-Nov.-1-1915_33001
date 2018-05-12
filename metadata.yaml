@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36157'
     url: http://www.gutenberg.org/2009/agents/36157
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33001#My-Diary-in-Serbia--April-1-1915-Nov.-1-1915
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
